@@ -4,11 +4,10 @@
 
     "links": {
         "home": "https://github.com/pookpal/starFEGuild",
-        "about": "http://aaaaaashu.me/",
+        "about": "",
         "issues": null,
         "contribute": null
     },
-
     "pdf": {
         "toc": true,
         "pageNumbers": false,
@@ -21,7 +20,6 @@
             "bottom": 36
         }
     },
-
     "plugins": [ "github" ],
     "pluginsConfig": {
       "github": {
