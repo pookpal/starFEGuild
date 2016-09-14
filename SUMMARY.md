@@ -14,6 +14,8 @@
    * [性能优化](css/performance.md)
 * [JavaScript](javascript/README.md)
    * [通用约定](javascript/general.md)
+   * [模块化规范](javascript/module.md)
+   * [ES6](javascript/es6.md)
    * [性能优化](javascript/performance.md)
 * [工程规范](project/README.md)
    * [项目命名规范](project/projectName.md)
