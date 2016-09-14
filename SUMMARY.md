@@ -15,7 +15,11 @@
 * [JavaScript](javascript/README.md)
    * [通用约定](javascript/general.md)
    * [性能优化](javascript/performance.md)
-* [移动端优化](mobile-optimize/README.md)
+* [工程规范](project/README.md)
+   * [项目命名规范](project/projectName.md)
+   * [目录结构](project/structure.md)
+   * [文件命名](project/fileName.md)
+* [移动端开发](mobile-optimize/README.md)
 * [工具箱](tool/README.md)
 * [参考](reference/README.md)
 
