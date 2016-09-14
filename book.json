@@ -20,7 +20,7 @@
             "bottom": 36
         }
     },
-    "plugins": [ "github" ],
+    "plugins": [ "github","toggle-chapters","splitter" ],
     "pluginsConfig": {
       "github": {
         "url": "https://github.com/pookpal/starFEGuild"
