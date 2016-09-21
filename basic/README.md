@@ -151,3 +151,17 @@ function foo(p1, p2, p3) {
 * 使用 [W3C CSS Validator](http://jigsaw.w3.org/css-validator/validator.html.zh-cn) 来验证你的CSS代码有效性；
 
 代码验证不是最终目的，真的目的在于让开发者在经过多次的这种验证过程后，能够深刻理解到怎样的语法或写法是非标准和不推荐的，即使在某些场景下被迫要使用非标准写法，也可以做到心中有数。
+####技术方案
+
+|平台	|应用场景	|主要应用技术(js+UI框架)|	使用公司列举 |
+|:-------|:-----------|:-------------------------|:--------|
+|PC端	|后端管理toB	|Reactjs	ant-design|	Facebook、阿里、腾讯、去哪儿、百度、美团等|
+|PC端	|后端管理toC	|Reactjs	ant-design|	Facebook、阿里、腾讯、去哪儿、百度、美团等|
+|PC端	|门户网站	|jQuery 	bootstrap	|支付宝、阿里、百度、京东、360|
+|移动端	|后端管理	|Zepto fastclick scroll/Vuejs 自定义|	淘宝、腾讯（QQ空间）|
+|移动端	|门户网站	|Zepto fastclick scroll/Vuejs 自定义	|淘宝、腾讯（QQ空间）|
+|移动端	|混合应用(原生应用中嵌入HTML5)|Zepto fastclick scroll/VueJS 自定义	|淘宝、腾讯（QQ空间）|
+|移动端	|HTML5原生	|ReactNative ReactNative	|美团、京东|
+
+以上技术方案为以后工作中的使用标准，如有特殊情况，需提前说明
+混合应用打包工具 请使用 Hbuilder
